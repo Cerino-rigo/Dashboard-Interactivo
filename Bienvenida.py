@@ -29,3 +29,4 @@ def main_frontend():
     graficar_ventas(dias,ventas)
 
 main_frontend()
+print("Despliegue de datos")
