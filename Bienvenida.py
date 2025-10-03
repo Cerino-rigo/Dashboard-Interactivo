@@ -51,5 +51,7 @@ def resumen_analitca():
 datos = resumen_analitca()
 print("Total de ventas :", datos["total"])
 print("Promedio diario :", datos["promedio"])
+
+fxgdfzgxvcxbxfgcvhbn
     
 
